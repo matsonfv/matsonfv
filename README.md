@@ -24,6 +24,10 @@
 
 ---
 
+https://discord-cards.onrender.com/api/card/matson1125?about=Exploring
+
+---
+
 <p align="center">
   <b>Disciplina constrói o que a motivação começa.</b>
 </p>
