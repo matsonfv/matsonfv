@@ -2,7 +2,7 @@
 
 **Junior Web Developer** 
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,10 +15,10 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matsonfv&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matsonfv&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsonfv&layout=compact&theme=tokyonight" />
 </p>
 
