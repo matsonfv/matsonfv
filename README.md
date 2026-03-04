@@ -24,7 +24,7 @@
 
 ---
 
-https://discord-cards.onrender.com/api/card/matson1125?about=Exploring
+![Cartões do Discord](https://discord-cards.onrender.com/api/card/matson1125?about=Exploring)
 
 ---
 
