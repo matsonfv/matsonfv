@@ -24,10 +24,6 @@
 
 ---
 
-![Cartões do Discord](https://discord-cards.onrender.com/api/card/448271337748955159?about=Exploring)
-
----
-
 <p align="center">
   <b>Disciplina constrói o que a motivação começa.</b>
 </p>
