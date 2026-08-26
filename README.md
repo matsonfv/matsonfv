@@ -40,12 +40,16 @@ Desenvolvedor Web em formação com foco em **React.js** e **Node.js**. Experiê
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=matsonfv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsonfv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=matsonfv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=matsonfv&theme=tokyonight&hide_border=true" />
 </p>
+
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@6b5ac3c8-7051-4fd8-840b-87e70f9a31e1/5c37ff5a-86d0-4087-9b9a-dfecba678751.png" />
+  </a>
 
   <figure><embed src="https://wakatime.com/share/@6b5ac3c8-7051-4fd8-840b-87e70f9a31e1/7f498d15-b292-476a-885f-0e17dddc9c0a.svg"></embed></figure>
 
