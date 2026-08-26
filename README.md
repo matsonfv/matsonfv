@@ -48,7 +48,7 @@ Desenvolvedor Web em formação com foco em **React.js** e **Node.js**. Experiê
 </p>
 
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@6b5ac3c8-7051-4fd8-840b-87e70f9a31e1/5c37ff5a-86d0-4087-9b9a-dfecba678751.png" />
+    <img src="https://wakatime.com/share/@6b5ac3c8-7051-4fd8-840b-87e70f9a31e1/5c37ff5a-86d0-4087-9b9a-dfecba678751.png" align-itens="center"/>
   </a>
 
   <figure><embed src="https://wakatime.com/share/@6b5ac3c8-7051-4fd8-840b-87e70f9a31e1/7f498d15-b292-476a-885f-0e17dddc9c0a.svg"></embed></figure>
