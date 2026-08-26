@@ -46,6 +46,9 @@ Desenvolvedor Web em formação com foco em **React.js** e **Node.js**. Experiê
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=matsonfv&theme=tokyonight&hide_border=true" />
 </p>
+<p>
+  <figure><embed src="https://wakatime.com/share/@6b5ac3c8-7051-4fd8-840b-87e70f9a31e1/7f498d15-b292-476a-885f-0e17dddc9c0a.svg"></embed></figure>
+</p>
 
 ---
 
